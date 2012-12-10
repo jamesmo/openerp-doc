@@ -53,7 +53,9 @@
 .. i18n: * Every OpenERP document can raise a cube browser for analysis.
 ..
 
-* OpenERP 的表现轮廓是预配置好的，不需要再定义一个立体图表轮廓了，立体图表浏览器允许最终用户引导到任何查询，每套OpenERP数据资料都可以为立体图表浏览器所打开分析。
+* OpenERP 的表现轮廓是预配置好的，不需要再定义一个立体图表轮廓了，
+* 立体图表浏览器允许最终用户引导到任何查询，
+* 每套OpenERP数据资料都可以为立体图表浏览器所打开分析。
 
 .. i18n: Links:
 .. i18n: ------
