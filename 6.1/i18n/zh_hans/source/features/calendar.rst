@@ -43,7 +43,7 @@
 .. i18n: ---------------------
 ..
 
-Integration benefits:
+集成的益处:
 ---------------------
 
 .. i18n: * All management objects can be viewed as a calendar
@@ -57,7 +57,7 @@ Integration benefits:
 .. i18n: ------
 ..
 
-Links:
+链接:
 ------
 
 .. i18n: * Module: calendar
