@@ -1,9 +1,8 @@
-
 .. i18n: Customer Relationship Management
 .. i18n: ================================
 ..
 
-Customer Relationship Management
+客户关系管理
 ================================
 
 .. i18n: The generic OpenERP Customer Relationship Management
@@ -13,18 +12,14 @@ Customer Relationship Management
 .. i18n: assignment, resolution and notification.
 ..
 
-The generic OpenERP Customer Relationship Management
-system enables a group of people to intelligently and efficiently manage
-leads, opportunities, tasks, issues, requests, bugs, campaign, claims, etc.
-It manages key tasks such as communication, identification, prioritization,
-assignment, resolution and notification.
+OpenERP通用客户关系管理系统让一组人智能高效地管理线索、商机、任务、问题、申请、错误、活动、调查等。它管理着关键任务，比如沟通、确认、优先安排、分配、解决和通知。
 
 .. i18n: OpenERP ensures that all cases are successfully tracked by users, customers and
 .. i18n: suppliers. It can automatically send reminders, escalate the request, trigger
 .. i18n: specific methods and lots of others actions based on your enterprise own rules.
 ..
 
-OpenERP ensures that all cases are successfully tracked by users, customers and
+OpenERP 确保所有情况都可被用户ensures that all cases are successfully tracked by users, customers and
 suppliers. It can automatically send reminders, escalate the request, trigger
 specific methods and lots of others actions based on your enterprise own rules.
 
@@ -41,7 +36,7 @@ specific methods and lots of others actions based on your enterprise own rules.
 .. i18n: -----------
 ..
 
-Key Points:
+关键点:
 -----------
 
 .. i18n: * Automatic incoming and outgoing email processing using the mail gateway,
